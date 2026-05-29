@@ -1,5 +1,14 @@
 # 💫 About Me:
+Hi, i'm Stanislav
 JavaScript / Node.js / React developer preparing for my first role in the tech industry.<br>I love building clean, functional applications, learning new technologies, and turning ideas into real projects.
+
+🎯 Goal: become a strong full‑stack developer and land my first dev job
+
+🧠 Passionate about structure, optimization, and automation
+
+💪 Balancing coding with fitness and health
+
+🌱 Currently improving: architecture, API design, clean code practices
 
 
 # 💻 Tech Stack:
