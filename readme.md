@@ -18,7 +18,3 @@ JavaScript / Node.js / React developer preparing for my first role in the tech i
 ![](https://streak-stats.demolab.com/?user=Stanislav1s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Stanislav1s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Stanislav1s&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
